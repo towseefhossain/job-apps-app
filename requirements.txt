@@ -1,0 +1,6 @@
+django
+djangorestframework
+environs
+flake8
+flake8-django
+django-cors-headers
